@@ -2,7 +2,8 @@
 Here is a repository containing the reports and code of my relevant, more challenging academic projects
 
 **Medical Projects**
-[Virus Prediction using supervised/unsupervised approaches](#Virus Detection using Classification, Regression and Unsupervised Approaches)
+[Virus Prediction using supervised/unsupervised approaches](virus-detection-using-classification-regression-and-unsupervised-approaches/)
+
 
 
 
