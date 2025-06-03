@@ -10,6 +10,7 @@ Here is a repository containing the reports and code of my relevant, more challe
 
 **NLP Projects**
 - [Published Research](BSc/NER%20for%20the%20Irish%20Language/)
+- [Publisher Paper](https://aclanthology.org/2025.mwe-1.9.pdf)
 - [NLP techniques](MSc/NLP/) 
 
 **Other**
@@ -23,4 +24,4 @@ Here is a repository containing the reports and code of my relevant, more challe
 For questions or collaborations:  
 **Hugo Collins**  
 📧 hugocollins01@gmail.com  
-🔗 [LinkedIn](https://your-linkedin.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/hugo-collins-095b6b27a/)
