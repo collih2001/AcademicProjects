@@ -10,7 +10,7 @@ Here is a repository containing the reports and code of my relevant, more challe
 
 **NLP Projects**
 - [Published Research](BSc/NER%20for%20the%20Irish%20Language/)
-- [NLP techniques](MSC/NLP)
+- [NLP techniques](MSC/NLP/)
 
 **Other**
 - [Building RAG Model](BSc/RAG/)
