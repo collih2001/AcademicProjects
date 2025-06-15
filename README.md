@@ -3,7 +3,7 @@ Here is a repository containing the reports and code of my relevant, more challe
 
 **Medical Projects**
 
-- [Virus Prediction using supervised/unsupervised approaches](MSc/Virus%20Detection%20using%20Classification,%20Regresssion%20and%20Unsupervised%20Approaches/)
+- [Virus Prediction using supervised/unsupervised approaches (and PCA)](MSc/Virus%20Detection%20using%20Classification,%20Regresssion%20and%20Unsupervised%20Approaches/)
 - [Immune Cancer Subtype Analysis](MSc/Immune%20Cancer%20Subtype%20Research/)
 - [Blood Pressure Prediction using Graphene Bioimpedance Tattoos](BSc/%20Blood%20Pressure%20Prediction%20using%20Graphene%20Bioimpedance%20Tattoos/)
 - [Building Knowledge Graph for PrimeKG Bio Data](MSc/Knowledge%20Graph%20of%20PrimeKG%20Bio%20Data/)
